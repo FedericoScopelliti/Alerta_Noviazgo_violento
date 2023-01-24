@@ -9,7 +9,8 @@ En los últimos años, se triplicaron los llamados de adolescentes por noviazgos
 
 #### Objetivo principal y proyecto
 
-En este proyecto, vamos a explorar y aplicar kmeans (aprendizaje no supervisado) a un dataset que contiene una encuesta a personas de diferente edad, sexo y ubicación. Para esto, vamos a separar a todas las personas en 2 grupos **(Sufrieron violencia/No la sufrieron)**
+En este proyecto, vamos a explorar y aplicar kmeans (aprendizaje no supervisado) a un dataset que contiene una encuesta a personas de diferente edad, sexo y ubicación. Para esto, vamos a separar a todas las personas en 3 grupos **(Situación normal, en observación o precaución y en situación crítica.)**. También aplicaremos PCA para realizar una reducción de dimensión y poder visualizar los datos.
+
 
 Algunos detalles importantes a tener en cuenta.
 ##### 1) No sabemos si todos los encuestados sufrieron violencia de género. Por ende, no podemos pensar que todos los encuestados hayan sufrido algún tipo de violencia según sus respuestas a las preguntas.
